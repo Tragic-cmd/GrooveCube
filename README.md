@@ -1,5 +1,5 @@
 # GrooveCube
-## GrooveCube is a casual 3D arcade game where you slide down a track and avoid obsticals. You win by reaching the end of the level. Easy, right?
+## GrooveCube is a casual 3D arcade game where you slide down a track and avoid obstacles. You win by reaching the end of the level. Easy, right?
 ### GrooveCube is my first game project. I brought this to life using the Unity game engine. 
 ### Installer can be found under releases (No admin rights required to install)
 #### Music Credits:: 
