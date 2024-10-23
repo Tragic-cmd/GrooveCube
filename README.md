@@ -9,4 +9,4 @@
 - Level 3 - Planetarium by cryptic scenery
 - Level 4 - Microship by CavalloPazzo
 - Level 5 - Aeronaut by Lately Kind of Yeah
-- Credits - a ghost is always alone... by ish10 yow1r0
+- Credits - A Ghost is Always Alone... by ish10 yow1r0
